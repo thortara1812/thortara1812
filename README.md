@@ -111,16 +111,7 @@ A domain-specific information retrieval project focused on improving access to r
 
 **Technologies:** Python · Information Retrieval · NLP · Machine Learning
 
-### 🔥 Fire Detection Using Deep Learning
 
-A computer vision project focused on detecting fire in surveillance imagery and video using deep learning.
-
-- Transfer learning with MobileNetV2.
-- Multi-class image classification.
-- Image preprocessing and model evaluation.
-- Confidence-based predictions.
-
-**Technologies:** Python · TensorFlow · Keras · OpenCV · CNN
 
 ### 🌐 Network Traffic Anomaly Detection
 
